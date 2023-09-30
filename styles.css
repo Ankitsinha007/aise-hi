@@ -1,0 +1,12 @@
+.bulb{
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 3px solid black;
+}
+button{
+  width: 50px;
+  height: 30px;
+  padding: 5px 5px;
+  margin: 50px;
+}
